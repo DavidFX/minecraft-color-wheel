@@ -3,7 +3,7 @@ import Wheel from "@uiw/react-color-wheel";
 import { hsvaToHex } from "@uiw/color-convert";
 
 function App() {
-  const [hsva, setHsva] = useState({ h: 0, s: 0, v: 0, a: 1 });
+  const [hsva, setHsva] = useState({ h: 214, s: 43, v: 90, a: 1 });
 
   return (
     <>
